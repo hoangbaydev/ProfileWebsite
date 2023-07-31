@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const Work = () => {
-  return <div>Work</div>;
+  return <section id="works">Work</section>;
 };
 
 export default Work;
